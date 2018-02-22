@@ -8,7 +8,8 @@ const initialState = Immutable({
     { title: "ES6 Changes Everything", path: "/es6" },
     { title: "Boilerplates, boilerplates everywhere!", path: "/boilerplates" },
     { title: '"Gazillions" of boilerplates, forever dying in the Github sea , tried to address this problem.', path: "/github" },
-    { title: "NextJs To The Rescue", path: "/next" }
+    { title: "NextJs To The Rescue", path: "/next" },
+    { title: "Demo", path: "/demo1" }
 
     ],
     currentPage: { title: "Why NextJs?", path: "/" },
