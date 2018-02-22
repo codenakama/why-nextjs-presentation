@@ -10,3 +10,4 @@ config.json
 # Build results
 [Oo]ut/
 [Oo]cto/
+\.DS_Store
