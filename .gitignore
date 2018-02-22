@@ -1,0 +1,12 @@
+## Ignore temporary files, build results etc
+
+# Nodejs
+node_modules
+
+# Nextjs
+.next
+config.json
+
+# Build results
+[Oo]ut/
+[Oo]cto/
