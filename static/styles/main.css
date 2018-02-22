@@ -6,3 +6,11 @@ nav img{
 img{
     width: 100%;
 }
+
+ul{
+    list-style: disc !important;
+}
+
+ul li{
+    margin-bottom: 1em;
+}
